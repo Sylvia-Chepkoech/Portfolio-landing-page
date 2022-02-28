@@ -2,7 +2,37 @@
   font-style: italic;
   font-family: fantasy;
   font-size: medium;
+  border: 2px solid white;
+  padding: 20px;
+  margin: 20px;
+  background-color: beige;
+  height: 50%;
+  width: 50%;
+  float: right; 
 }
+
 img {
   float: left;
+  border-radius: 50%;
+  width: 30%;
+}
+h1 {
+  color: antiquewhite;
+  text-align: center;
+  font-size: 400%;
+}
+h2 {
+  text-align: center;
+  color: antiquewhite;
+  font-size: xx-large;
+}
+
+body {
+  background-color: rgb(199, 150, 133);
+
+}
+
+.heading {
+  border: 4px solid white
+
 }

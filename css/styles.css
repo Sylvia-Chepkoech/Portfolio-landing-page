@@ -6,15 +6,16 @@
   padding: 20px;
   margin: 20px;
   height: 50%;
-  width: 50%;
+  width: 60%;
   float: right; 
   color: black;
 }
 
 img {
   float: left;
-  border-radius: 50%;
+  border-radius: 0%;
   width: 20%;
+  
 }
 h1 {
   color: black;

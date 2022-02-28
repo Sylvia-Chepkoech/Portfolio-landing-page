@@ -5,10 +5,10 @@
   border: 2px solid white;
   padding: 20px;
   margin: 20px;
-  background-color: beige;
   height: 50%;
   width: 50%;
   float: right; 
+  color: black;
 }
 
 img {
@@ -17,18 +17,18 @@ img {
   width: 30%;
 }
 h1 {
-  color: antiquewhite;
+  color: black;
   text-align: center;
   font-size: 400%;
 }
 h2 {
   text-align: center;
-  color: antiquewhite;
+  color: black;
   font-size: xx-large;
 }
 
 body {
-  background-image: url(./images/about me.png);
+  background-color:rgb(248, 230, 207);
 
 }
 
@@ -38,11 +38,6 @@ body {
 }
 
 #quote {
-  text-align: center;
-  font-family: 'Times New Roman', Times, serif;
-}
-
-.content {
-  background-image: url(about me.png);
-
+  text-align: justify;
+  color: black;
 }

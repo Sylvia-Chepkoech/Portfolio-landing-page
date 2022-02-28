@@ -28,7 +28,7 @@ h2 {
 }
 
 body {
-  background-color: rgb(199, 150, 133);
+  background-image: url(./images/about me.png);
 
 }
 
@@ -40,4 +40,9 @@ body {
 #quote {
   text-align: center;
   font-family: 'Times New Roman', Times, serif;
+}
+
+.content {
+  background-image: url(about me.png);
+
 }

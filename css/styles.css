@@ -14,7 +14,7 @@
 img {
   float: left;
   border-radius: 50%;
-  width: 30%;
+  width: 20%;
 }
 h1 {
   color: black;
@@ -40,4 +40,6 @@ body {
 #quote {
   text-align: justify;
   color: black;
+  float: right;
+  font-family: fantasy;
 }

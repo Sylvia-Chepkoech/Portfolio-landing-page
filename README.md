@@ -10,7 +10,8 @@ To run the application in your terminal
 * cd into directory
 * open the index.html on the browser
 * format
-
+## Live link
+https://sylvia-chepkoech.github.io/Portfolio-landing-page/
 ## Known Bugs
 *None
 ## Technologies Used
